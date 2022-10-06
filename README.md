@@ -23,7 +23,7 @@ A simple application that can be sued to write and save notes.  This application
 [GitHub](https://github.com/krsparks2)   
 [Email](mailto:krsparks2@yahoo.com)
 <br>
-[Heroku App](https://drive.google.com/file/d/1tn3F8_aO9MC-l5dMQI8KR6PZMVxnM096/view)
+[Heroku App](https://secret-wildwood-03400.herokuapp.com/)
 
 ## Screenshot
 ![Screenshot of Note Taker App](./public/assets/images/screenshot11-note-taker.PNG)
