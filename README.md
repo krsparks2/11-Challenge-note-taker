@@ -1,6 +1,5 @@
 # 11-Challenge-note-taker
 
-
 ## Table of Contents
   - [Description](#description)
   - [usage](#use)
